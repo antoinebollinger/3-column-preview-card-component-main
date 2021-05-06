@@ -1,0 +1,15 @@
+/* MOBILE */ 
+
+body {
+	height: unset;
+}
+
+article {
+	max-width: 375px;
+	grid-template-columns: unset;
+	grid-template-rows: repeat(3, auto);
+}
+
+.attribution {
+	position: static;
+}
